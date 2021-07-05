@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CodingEvaluationOne</string>
+    <string name="welcme_back">Welcome Back</string>
+    <string name="continue_signUp">Continue to SignUP</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="no_account">Do not have account?</string>
+
+</resources>
